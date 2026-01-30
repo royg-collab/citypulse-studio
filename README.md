@@ -2,6 +2,16 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
+# CityPulse Studio 🌆
+
+🚀 **Live Demo:**  
+https://citypulse-studio-597564223573.us-west1.run.app
+
+CityPulse Studio is an AI-powered urban intelligence tool built using **Gemini 3** that combines CSV datasets and PDF planning documents to generate actionable city insights.
+
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/a861e195-a664-4175-83a0-5f61d3f3b01d" />
+
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
