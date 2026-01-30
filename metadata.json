@@ -1,0 +1,7 @@
+{
+  "name": "CityPulse Studio",
+  "description": "A smart city reasoning and prototyping application that analyzes infrastructure data, maps, and research to generate executable urban planning strategies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
