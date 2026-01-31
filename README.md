@@ -32,6 +32,14 @@ CityPulse Studio uses Gemini 3 to analyze structured (CSV) and unstructured (PDF
 
 ## Gemini 3 Integration
 
+Gemini Integration Description
+
+CityPulse Studio is an AI-powered urban intelligence platform built using Gemini 3 to help cities transform fragmented planning data into actionable insights. Urban decision-makers routinely work with large volumes of structured data (CSV files such as population, mobility, and infrastructure metrics) alongside unstructured planning documents (PDFs, policy reports, and master plans). Analyzing these sources together is time-consuming, manual, and error-prone.
+
+Gemini 3 is the core intelligence layer of CityPulse Studio. The application uses Gemini 3’s multimodal reasoning and long-context understanding to simultaneously process structured datasets and unstructured documents. CSV data is analyzed to identify trends, risks, and correlations, while Gemini 3 interprets long-form PDFs to extract policy intent, constraints, and planning context. These insights are then fused to generate urban intelligence summaries, zoning-level insights, risk assessments, and policy recommendations in natural language.
+
+By leveraging Gemini 3’s advanced reasoning, document understanding, and conversational interaction, CityPulse Studio enables users to explore complex urban data through simple queries instead of static dashboards. The result is a fast, scalable, and intuitive decision-support system that demonstrates how Gemini 3 can power real-world civic innovation and smarter city planning.
+
 CityPulse Studio leverages Gemini 3 for:
 - Multimodal reasoning across CSV + PDF inputs
 - Long-context document understanding
